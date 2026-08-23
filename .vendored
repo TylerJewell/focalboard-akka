@@ -1,0 +1,11 @@
+# What this project vendored rather than wrote, and why the scan does not read it.
+#
+# RENDERING.md R3 has this port ship focalboard's own web interface, changed only in its data
+# layer. That is 57,000 lines nobody here wrote, and one of them -- emojiList.ts -- is a
+# single line of deliberate zero-width joiners, which is how a family emoji is spelled. Read
+# as if this project had written it, it reports 166 invisible characters and buries the zero
+# the port's own sources produce.
+#
+# The four files this port changed are listed in focalboard-port/docs/webapp-diff.md and are
+# scanned by hand against that list.
+webapp   # focalboard's own web interface, vendored under RENDERING.md R3

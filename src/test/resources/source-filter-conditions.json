@@ -1,0 +1,8327 @@
+[
+  {
+    "name": "select set | no values | includes",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | isSet",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | is",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | contains",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | notContains",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | startsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | endsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | isBefore",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "isBefore",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | no values | isAfter",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [],
+    "condition": "isAfter",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | includes",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notIncludes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | isSet",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | is",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | contains",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | notContains",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notContains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | startsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notStartsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | endsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notEndsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | isBefore",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one matching | isAfter",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | includes",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | isSet",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | is",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | contains",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | notContains",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | startsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | endsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | isBefore",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | one not matching | isAfter",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | includes",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | isSet",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | is",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | contains",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | notContains",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | startsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | endsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | isBefore",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | lowercase word | isAfter",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | includes",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | isSet",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | is",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | contains",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | notContains",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | startsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | endsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | isBefore",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select set | two values | isAfter",
+    "propertyId": "p-select",
+    "storedValue": "opt-todo",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | includes",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | isSet",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | is",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | contains",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | notContains",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | startsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | endsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | isBefore",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isBefore",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | no values | isAfter",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isAfter",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | includes",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | isSet",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | is",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | contains",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | notContains",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | startsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | endsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | isBefore",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one matching | isAfter",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | includes",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | isSet",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | is",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | contains",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | notContains",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | startsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | endsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | isBefore",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | one not matching | isAfter",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | includes",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | isSet",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | is",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | contains",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | notContains",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | startsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | endsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | isBefore",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | lowercase word | isAfter",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | includes",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | isSet",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | is",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | contains",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | notContains",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | startsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | endsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | isBefore",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select absent | two values | isAfter",
+    "propertyId": "p-select",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | includes",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | isSet",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | is",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | contains",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | notContains",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | startsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | endsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | isBefore",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "isBefore",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | no values | isAfter",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [],
+    "condition": "isAfter",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | includes",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | isSet",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | is",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | contains",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | notContains",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | startsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | endsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | isBefore",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one matching | isAfter",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | includes",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | isSet",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | is",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | contains",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | notContains",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | startsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | endsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | isBefore",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | one not matching | isAfter",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | includes",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | isSet",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | is",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | contains",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | notContains",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | startsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | endsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | isBefore",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | lowercase word | isAfter",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | includes",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | notIncludes",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | isEmpty",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | isNotEmpty",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | isSet",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | isNotSet",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | is",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | contains",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | notContains",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | startsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | notStartsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | endsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | notEndsWith",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | isBefore",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "select empty string | two values | isAfter",
+    "propertyId": "p-select",
+    "storedValue": "",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | includes",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | isSet",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | is",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | contains",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | notContains",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "isBefore",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | no values | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [],
+    "condition": "isAfter",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | includes",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | isSet",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | is",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | contains",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | notContains",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "startsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | one matching | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notStartsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | one matching | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "endsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | one matching | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notEndsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | one matching | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one matching | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | includes",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | isSet",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | is",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | contains",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | notContains",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "startsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | one not matching | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notStartsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | one not matching | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "endsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | one not matching | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notEndsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | one not matching | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | one not matching | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | includes",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | isSet",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | is",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | contains",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | notContains",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "startsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | lowercase word | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notStartsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | lowercase word | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "endsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | lowercase word | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notEndsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | lowercase word | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | lowercase word | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | includes",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notIncludes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | isSet",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | is",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | contains",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | notContains",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notContains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "startsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | two values | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notStartsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | two values | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "endsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | two values | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notEndsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi two values | two values | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi two values | two values | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": [
+      "tag-a",
+      "tag-b"
+    ],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | includes",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | isSet",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | is",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | contains",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | notContains",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "isBefore",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | no values | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [],
+    "condition": "isAfter",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | includes",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | isSet",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | is",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | contains",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | notContains",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "startsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | one matching | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notStartsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | one matching | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "endsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | one matching | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notEndsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | one matching | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one matching | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | includes",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | isSet",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | is",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | contains",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | notContains",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "startsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | one not matching | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notStartsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | one not matching | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "endsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | one not matching | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notEndsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | one not matching | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | one not matching | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | includes",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | isSet",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | is",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | contains",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | notContains",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "startsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | lowercase word | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notStartsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | lowercase word | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "endsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | lowercase word | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notEndsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | lowercase word | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | lowercase word | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | includes",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | isSet",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | is",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | contains",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | notContains",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "startsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | two values | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notStartsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | two values | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "endsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | two values | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notEndsWith",
+    "answer": null,
+    "threw": true
+  },
+  {
+    "name": "multi empty array | two values | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi empty array | two values | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": [],
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | includes",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | isSet",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | is",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | contains",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | notContains",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isBefore",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | no values | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isAfter",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | includes",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | isSet",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | is",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | contains",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | notContains",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one matching | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | includes",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | isSet",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | is",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | contains",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | notContains",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | one not matching | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | includes",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | isSet",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | is",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | contains",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | notContains",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | lowercase word | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | includes",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | notIncludes",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | isEmpty",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | isNotEmpty",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | isSet",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | isNotSet",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | is",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | contains",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | notContains",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | startsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | notStartsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | endsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | notEndsWith",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | isBefore",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "multi absent | two values | isAfter",
+    "propertyId": "p-multi",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | includes",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | notIncludes",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | isEmpty",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | isNotEmpty",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | isSet",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | isNotSet",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | is",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | contains",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | notContains",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | startsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | notStartsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | endsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | notEndsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | isBefore",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "isBefore",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | no values | isAfter",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [],
+    "condition": "isAfter",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | includes",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | notIncludes",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | isEmpty",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | isNotEmpty",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | isSet",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | isNotSet",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | is",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | contains",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | notContains",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | startsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | notStartsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | endsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | notEndsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | isBefore",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one matching | isAfter",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | includes",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | notIncludes",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | isEmpty",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | isNotEmpty",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | isSet",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | isNotSet",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | is",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | contains",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | notContains",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | startsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | notStartsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | endsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | notEndsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | isBefore",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | one not matching | isAfter",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | includes",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | notIncludes",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | isEmpty",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | isNotEmpty",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | isSet",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | isNotSet",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | is",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | contains",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | notContains",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notContains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | startsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | notStartsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notStartsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | endsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | notEndsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | isBefore",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | lowercase word | isAfter",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | includes",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | notIncludes",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | isEmpty",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | isNotEmpty",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | isSet",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | isNotSet",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | is",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | contains",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | notContains",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | startsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | notStartsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | endsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | notEndsWith",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | isBefore",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text set | two values | isAfter",
+    "propertyId": "p-text",
+    "storedValue": "hello world",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | includes",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | notIncludes",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | isEmpty",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | isNotEmpty",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | isSet",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | isNotSet",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | is",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | contains",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | notContains",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | startsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | notStartsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | endsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | notEndsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | isBefore",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isBefore",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | no values | isAfter",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [],
+    "condition": "isAfter",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | includes",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | notIncludes",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | isEmpty",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | isNotEmpty",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | isSet",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | isNotSet",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | is",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | contains",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | notContains",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | startsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | notStartsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | endsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | notEndsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | isBefore",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one matching | isAfter",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | includes",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | notIncludes",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | isEmpty",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | isNotEmpty",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | isSet",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | isNotSet",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | is",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | contains",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | notContains",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | startsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | notStartsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | endsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | notEndsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | isBefore",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | one not matching | isAfter",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | includes",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | notIncludes",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | isEmpty",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | isNotEmpty",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | isSet",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | isNotSet",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | is",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | contains",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | notContains",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | startsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | notStartsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | endsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | notEndsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | isBefore",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | lowercase word | isAfter",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | includes",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | notIncludes",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | isEmpty",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | isNotEmpty",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | isSet",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | isNotSet",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | is",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | contains",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | notContains",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | startsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | notStartsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | endsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | notEndsWith",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | isBefore",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "text absent | two values | isAfter",
+    "propertyId": "p-text",
+    "storedValue": null,
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | includes",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | notIncludes",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | isEmpty",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | isNotEmpty",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | isSet",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | isNotSet",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | is",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | contains",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | notContains",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | startsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | notStartsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | endsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | notEndsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | isBefore",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "isBefore",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | no values | isAfter",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [],
+    "condition": "isAfter",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | includes",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | notIncludes",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | isEmpty",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | isNotEmpty",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | isSet",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | isNotSet",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | is",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | contains",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | notContains",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | startsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | notStartsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | endsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | notEndsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | isBefore",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one matching | isAfter",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | includes",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | notIncludes",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | isEmpty",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | isNotEmpty",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | isSet",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | isNotSet",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | is",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | contains",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | notContains",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | startsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | notStartsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | endsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | notEndsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | isBefore",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | one not matching | isAfter",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | includes",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | notIncludes",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | isEmpty",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | isNotEmpty",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | isSet",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | isNotSet",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | is",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | contains",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | notContains",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | startsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | notStartsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | endsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | notEndsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | isBefore",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | lowercase word | isAfter",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | includes",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | notIncludes",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | isEmpty",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | isNotEmpty",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | isSet",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | isNotSet",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | is",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | contains",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | notContains",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | startsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | notStartsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | endsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | notEndsWith",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | isBefore",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number set | two values | isAfter",
+    "propertyId": "p-number",
+    "storedValue": "7",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | includes",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "includes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | notIncludes",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | isEmpty",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | isNotEmpty",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | isSet",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | isNotSet",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | is",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "is",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | contains",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "contains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | notContains",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | startsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "startsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | notStartsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | endsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "endsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | notEndsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | isBefore",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "isBefore",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | no values | isAfter",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [],
+    "condition": "isAfter",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | includes",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | notIncludes",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | isEmpty",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | isNotEmpty",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | isSet",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | isNotSet",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | is",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | contains",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | notContains",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | startsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | notStartsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | endsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | notEndsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | isBefore",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one matching | isAfter",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-todo"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | includes",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | notIncludes",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | isEmpty",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | isNotEmpty",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | isSet",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | isNotSet",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | is",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | contains",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | notContains",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | startsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | notStartsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | endsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | notEndsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | isBefore",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | one not matching | isAfter",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "opt-done"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | includes",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | notIncludes",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | isEmpty",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | isNotEmpty",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | isSet",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | isNotSet",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | is",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | contains",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | notContains",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | startsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | notStartsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | endsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | notEndsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | isBefore",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | lowercase word | isAfter",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "hello"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | includes",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "includes",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | notIncludes",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notIncludes",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | isEmpty",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isEmpty",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | isNotEmpty",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotEmpty",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | isSet",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isSet",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | isNotSet",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isNotSet",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | is",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "is",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | contains",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "contains",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | notContains",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notContains",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | startsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "startsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | notStartsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notStartsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | endsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "endsWith",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | notEndsWith",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "notEndsWith",
+    "answer": true,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | isBefore",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isBefore",
+    "answer": false,
+    "threw": false
+  },
+  {
+    "name": "number zero | two values | isAfter",
+    "propertyId": "p-number",
+    "storedValue": "0",
+    "filterValues": [
+      "tag-a",
+      "tag-b"
+    ],
+    "condition": "isAfter",
+    "answer": false,
+    "threw": false
+  }
+]
