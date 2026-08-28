@@ -9,3 +9,4 @@
 # The four files this port changed are listed in focalboard-port/docs/webapp-diff.md and are
 # scanned by hand against that list.
 webapp   # focalboard's own web interface, vendored under RENDERING.md R3
+src/main/resources/static-resources  # the original's Metropolis web fonts, shipped as it ships them

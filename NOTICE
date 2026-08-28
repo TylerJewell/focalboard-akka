@@ -1,0 +1,24 @@
+focalboard-akka
+Copyright 2026 Tyler Jewell
+
+This software was written for the Akka Specify port experiment and is licensed
+under the Apache License, Version 2.0. See LICENSE.
+
+It is a clean-room implementation: written against a specification derived by
+running mattermost-community/focalboard and recording what it does, not by translating its source.
+
+Portions of this repository are NOT covered by that licence. The following trees
+are reused verbatim from mattermost-community/focalboard (https://github.com/mattermost-community/focalboard):
+
+    src/main/resources/static-resources/
+    webapp/
+
+    Copyright the mattermost-community/focalboard authors
+    Licensed under AGPL-3.0
+
+Those files remain under the licence their authors chose. Nothing in this
+repository relicenses them. See LICENSING.md and .vendored.
+
+Installed dependencies inside those trees (node_modules)
+are neither this project's work nor mattermost-community/focalboard's. Each package
+there remains under the licence its own author chose.
